@@ -1,11 +1,11 @@
 {
-	"name": "amanis/sylius-payment-fee-plugin",
+	"name": "amanis513/sylius-payment-fee-plugin",
 	"type": "sylius-plugin",
 	"description": "Payment fee plugin for Sylius.",
 	"license": "MIT",
 	"require": {
-        "php": "^7.4 || ^8.0 || ^8.1 || ^8.2  || ^8.3",
-        "sylius/sylius": "^1.8 || ^1.9 || ^1.10 || ^1.11 || ^1.12 || ^1.13"
+        "php": ">=7.3",
+        "sylius/sylius": "^1.7"
     },
 	"require-dev": {
 		"behat/behat": "^3.6.1",
